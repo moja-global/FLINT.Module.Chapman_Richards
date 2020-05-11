@@ -26,7 +26,7 @@ Follow the following guide for the base FLINT development environment
 
 https://github.com/moja-global/FLINT#development-environment-how-to-for-windows
 
-Once this is completed, start a command shell where you cloned this repository and use the following commands to create the Visual Studio solution:
+Once this is completed, start a command shell where you cloned this repository and change to the source folder then use the following commands to create the Visual Studio solution:
 
 ```powershell
 # Create a build folder 
