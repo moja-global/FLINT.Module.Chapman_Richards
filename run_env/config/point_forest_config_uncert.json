@@ -22,6 +22,38 @@
 		"aboveGroundCM",
 		"belowGroundCM"
 	],
+	"Uncertanty": {
+		"enabled": true,
+		"iterations": 1000,
+		"sampling":{},
+		"variables": [
+			{
+				"variable": "forest_types",
+				"replacements": [
+					{
+						"query": {
+							"id": 1
+						},
+						"replace": {
+							"k": {
+								"type": "triangular",
+								"seed": 12345,
+								"min": 0.02,
+								"peak": 0.037,
+								"max": 0.045
+							},
+							"max":{
+								"type": "normal",
+								"seed": 12345,
+								"mean": 51.64,
+								"std_dev": 2
+							}
+						}
+					}
+				]
+			}
+		]
+	},
 	"Variables": [
 		{
 			"localDomainId": 1
