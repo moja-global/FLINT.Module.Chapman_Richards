@@ -1,12 +1,13 @@
 # FLINT Chapman Richards
 
-A Tier 3<sup>1</sup> method is used for estimation of aboveground carbon for forests, as estimated using the Chapman-Richards function (eqn. 1). The curve provides an estimate of total aboveground biomass based on age. Belowground biomass is calculated as a ratio from aboveground biomass. The equations are within the Forest Growth Module.
+A Tier 3<sup>[1](#footnote1)</sup> method is used for estimation of aboveground carbon for forests, as estimated using the Chapman-Richards function (eqn. 1). The curve provides an estimate of total aboveground biomass based on age. Belowground biomass is calculated as a ratio from aboveground biomass. The equations are within the Forest Growth Module.
 
 ### Eqn. 1 Chapman-Richards Function
 
-[https://render.githubusercontent.com/render/math?math=AGC=max\times[1-e^{-k\cdot%20age}\]^{(1/1-m)}](https://render.githubusercontent.com/render/math?math=AGC=max\times[1-e^{-k\cdot age}]^{(1/1-m)})
+<img src="https://render.githubusercontent.com/render/math?math=AGC=max\times[1-e^{-k\cdot age}]^{(1/1-m)}">
 
 where: 
+
 AGC	— Aboveground stand carbon (Tonnes carbon per hectare); 
 
 max	— asymptote – maximum peak carbon yield (Tonnes carbon per hectare); 
