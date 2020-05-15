@@ -24,8 +24,8 @@
 	],
 	"Uncertanty": {
 		"enabled": true,
-		"iterations": 1000,
-		"sampling":{},
+		"iterations": 100,
+		"sampling": {},
 		"variables": [
 			{
 				"variable": "forest_types",
@@ -42,7 +42,7 @@
 								"peak": 0.037,
 								"max": 0.045
 							},
-							"max":{
+							"max": {
 								"type": "normal",
 								"seed": 12345,
 								"mean": 51.64,
@@ -57,6 +57,14 @@
 	"Variables": [
 		{
 			"localDomainId": 1
+		},
+		{
+			"uncertaintySimulationUnitData": {
+				"flintdata": {
+					"library": "internal.flint",
+					"type": "UncertaintySimulationUnitData"
+				}
+			}
 		},
 		{
 			"simulateLandUnit": true
@@ -147,6 +155,11 @@
 			"library": "moja.modules.chapman_richards",
 			"order": 4
 		},
+		"AggregatorUncertainty": {
+			"library": "internal.flint",
+			"order": 5,
+			"settings": {}
+		},
 		"OutputerStream": {
 			"library": "internal.flint",
 			"order": 6,
@@ -163,6 +176,18 @@
 				"output_filename": "Forest_Point_Flux.csv",
 				"output_to_screen": false,
 				"output_info_header": false
+			}
+		},
+		"UncertaintyFileWriter": {
+			"library": "internal.flint",
+			"order": 8,
+			"settings": {
+				"flux_file_name": "Forest_Point_Flux_Uncertainty.csv",
+				"stock_file_name": "Forest_Point_Stock_Uncertainty.csv",
+				"confidence_interval": "ninety_nine_percent",
+				"output_to_screen": false,
+				"include_raw_data": false,
+				"output_info_header": true
 			}
 		}
 	}
