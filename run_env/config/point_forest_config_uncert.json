@@ -6,12 +6,12 @@
 		"sequencer_library": "internal.flint",
 		"sequencer": "CalendarAndEventFlintDataSequencer",
 		"simulateLandUnit": "simulateLandUnit",
-		"landUnitBuildSuccess": "landUnitBuildSuccess"
-	},
-	"operationManager": {
-		"name": "Simple",
-		"use_kahan": false,
-		"allow_zero_result_transfers": false
+		"landUnitBuildSuccess": "landUnitBuildSuccess",
+		"operationManager": {
+			"name": "Simple",
+			"use_kahan": false,
+			"allow_zero_result_transfers": false
+		}
 	},
 	"Libraries": {
 		"moja.modules.chapman_richards": "external"
@@ -57,6 +57,14 @@
 	"Variables": [
 		{
 			"localDomainId": 1
+		},
+		{
+			"simulationUnitData": {
+				"flintdata": {
+					"library": "internal.flint",
+					"type": "SimulationUnitData"
+				}
+			}
 		},
 		{
 			"uncertaintySimulationUnitData": {
