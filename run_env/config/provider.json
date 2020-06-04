@@ -16,6 +16,7 @@
           "layer_data": "UInt8",
           "layer_prefix": "",
           "layer_path": "data/DMA_AL4.tif",
+          "metadata_required": false,
           "nodata": 255
         },        
         {
@@ -24,6 +25,7 @@
           "layer_data": "UInt8",
           "layer_prefix": "",
           "layer_path": "data/DMA_GEZ.tif",
+          "metadata_required": false,
           "nodata": 255
         },        
         {
@@ -32,6 +34,7 @@
           "layer_data": "UInt8",
           "layer_prefix": "",
           "layer_path": "data/Hansen_GFC-2018-v1.6_gain.vrt",
+          "metadata_required": false,
           "nodata": 255
         },
         {
@@ -40,6 +43,7 @@
           "layer_data": "UInt8",
           "layer_prefix": "",
           "layer_path": "data/Hansen_GFC-2018-v1.6_lossyear.vrt",
+          "metadata_required": false,
           "nodata": 255
         },
         {
@@ -48,6 +52,7 @@
           "layer_data": "UInt8",
           "layer_prefix": "",
           "layer_path": "data/Hansen_GFC-2018-v1.6_treecover2000.vrt",
+          "metadata_required": false,
           "nodata": 255
         }
 

@@ -90,7 +90,9 @@
 			"allow_zero_result_transfers": false
 		},
 		"settings":{
-			"sampling_interval": 1000
+			"sampling_intervalz": 1000,
+			"sampling_percent": 0.001,
+			"random_sampling": true
 		}
 	},
 	"Libraries": {
@@ -106,7 +108,6 @@
 	"Uncertanty": {
 		"enabled": true,
 		"iterations": 10,
-		"sampling":{},
 		"variables": [
 			{
 				"variable": "forest_types",
