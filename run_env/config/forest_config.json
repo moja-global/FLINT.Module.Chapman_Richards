@@ -23,12 +23,6 @@
 			"iteration_type": "BlockIndex",
 			"num_threads": 0,
 			"provider": "FlintTiled",
-			"one_blocks": [
-				{
-					"tile_index": 26758,
-					"block_index": 35
-				}
-			],
 			"blocks": [
 				{
 					"tile_index": 26758,
@@ -90,7 +84,6 @@
 			"allow_zero_result_transfers": false
 		},
 		"settings":{
-			"sampling_intervalz": 1000,
 			"sampling_percent": 0.001,
 			"random_sampling": true
 		}
@@ -105,7 +98,7 @@
 		"aboveGroundCM",
 		"belowGroundCM"
 	],
-	"Uncertanty": {
+	"Uncertainty": {
 		"enabled": true,
 		"iterations": 10,
 		"variables": [
