@@ -37,3 +37,42 @@ cd build
 cmake -G "Visual Studio 16 2019" -DCMAKE_INSTALL_PREFIX=C:/Development/Software/moja -DVCPKG_TARGET_TRIPLET=x64-windows -DCMAKE_TOOLCHAIN_FILE=c:\Development\moja-global\vcpkg\scripts\buildsystems\vcpkg.cmake ..
 ```
 
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)): 
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt=""/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="#maintenance-gmajan" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/mtbdeligt"><img src="https://avatars3.githubusercontent.com/u/16447169?v=4" width="100px;" alt=""/><br /><sub><b>Rob de Ligt</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=mtbdeligt" title="Documentation">📖</a> <a href="#maintenance-mtbdeligt" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/malfrancis"><img src="https://avatars0.githubusercontent.com/u/5935221?v=4" width="100px;" alt=""/><br /><sub><b>Mal</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=malfrancis" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/leitchy"><img src="https://avatars0.githubusercontent.com/u/3417817?v=4" width="100px;" alt=""/><br /><sub><b>James Leitch</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=leitchy" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mfellows"><img src="https://avatars0.githubusercontent.com/u/8548157?v=4" width="100px;" alt=""/><br /><sub><b>Max Fellows</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=mfellows" title="Code">💻</a></td>
+    <td align="center"><a href="https://canada.ca"><img src="https://avatars3.githubusercontent.com/u/20973642?v=4" width="100px;" alt=""/><br /><sub><b>Government of Canada - Gouvernement du Canada</b></sub></a><br /><a href="#financial-canada-ca" title="Financial">💵</a></td>
+    <td align="center"><a href="https://github.com/nibwene"><img src="https://avatars2.githubusercontent.com/u/52450703?v=4" width="100px;" alt=""/><br /><sub><b>Nibwene</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=nibwene" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!  
+
+moja global would like to recognise the contribution of the Government of Canada to support the development of its open-source repositories and frameworks.
+  
+  
+## Maintainers Reviewers Ambassadors Coaches
+
+The following people are Maintainers Reviewers Ambassadors or Coaches
+
+<table><tr><td align="center"><a href="https://github.com/mtbdeligt"><img src="https://avatars3.githubusercontent.com/u/16447169?v=4" width="100px;" alt=""/><br /><sub><b>Rob de Ligt</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=mtbdeligt" title="Documentation">📖</a> <a href="#maintenance-mtbdeligt" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/malfrancis"><img src="https://avatars0.githubusercontent.com/u/5935221?v=4" width="100px;" alt=""/><br /><sub><b>Mal</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=malfrancis" title="Code">💻</a></td></tr></table>
+
+**Maintainers** review and accept proposed changes  
+**Reviewers** check proposed changes before they go to the Maintainers  
+**Ambassadors** are available to provide training related to this repository  
+**Coaches** are available to provide information to new contributors to this repository  
