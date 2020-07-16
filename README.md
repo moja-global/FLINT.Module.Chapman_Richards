@@ -46,13 +46,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt=""/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="#maintenance-gmajan" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/mtbdeligt"><img src="https://avatars3.githubusercontent.com/u/16447169?v=4" width="100px;" alt=""/><br /><sub><b>Rob de Ligt</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=mtbdeligt" title="Documentation">📖</a> <a href="#maintenance-mtbdeligt" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/malfrancis"><img src="https://avatars0.githubusercontent.com/u/5935221?v=4" width="100px;" alt=""/><br /><sub><b>Mal</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=malfrancis" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/leitchy"><img src="https://avatars0.githubusercontent.com/u/3417817?v=4" width="100px;" alt=""/><br /><sub><b>James Leitch</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=leitchy" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mfellows"><img src="https://avatars0.githubusercontent.com/u/8548157?v=4" width="100px;" alt=""/><br /><sub><b>Max Fellows</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=mfellows" title="Code">💻</a></td>
-    <td align="center"><a href="https://canada.ca"><img src="https://avatars3.githubusercontent.com/u/20973642?v=4" width="100px;" alt=""/><br /><sub><b>Government of Canada - Gouvernement du Canada</b></sub></a><br /><a href="#financial-canada-ca" title="Financial">💵</a></td>
-    <td align="center"><a href="https://github.com/nibwene"><img src="https://avatars2.githubusercontent.com/u/52450703?v=4" width="100px;" alt=""/><br /><sub><b>Nibwene</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=nibwene" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -69,8 +64,8 @@ moja global would like to recognise the contribution of the Government of Canada
 
 The following people are Maintainers Reviewers Ambassadors or Coaches
 
-<table><tr><td align="center"><a href="https://github.com/mtbdeligt"><img src="https://avatars3.githubusercontent.com/u/16447169?v=4" width="100px;" alt=""/><br /><sub><b>Rob de Ligt</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=mtbdeligt" title="Documentation">📖</a> <a href="#maintenance-mtbdeligt" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/malfrancis"><img src="https://avatars0.githubusercontent.com/u/5935221?v=4" width="100px;" alt=""/><br /><sub><b>Mal</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=malfrancis" title="Code">💻</a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/leitchy"><img src="https://avatars0.githubusercontent.com/u/3417817?v=4" width="100px;" alt=""/><br /><sub><b>James Leitch</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=leitchy" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mfellows"><img src="https://avatars0.githubusercontent.com/u/8548157?v=4" width="100px;" alt=""/><br /><sub><b>Max Fellows</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=mfellows" title="Code">💻</a></td></tr></table>
 
 **Maintainers** review and accept proposed changes  
 **Reviewers** check proposed changes before they go to the Maintainers  
