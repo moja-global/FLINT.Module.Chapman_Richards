@@ -4,7 +4,7 @@ A Tier 3<sup>[1](#footnote1)</sup> method is used for estimation of aboveground 
 
 ### Eqn. 1 Chapman-Richards Function
 
-![Equtaion](https://user-images.githubusercontent.com/47894634/121567047-bdbb9300-ca3b-11eb-861e-4605ade57ee2.png)
+![Equation](https://user-images.githubusercontent.com/20387761/122469173-fb9e5580-cfff-11eb-86fe-d3708ce04247.png)
 
 
 where: 
