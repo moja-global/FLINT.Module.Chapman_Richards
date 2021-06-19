@@ -4,7 +4,8 @@ A Tier 3<sup>[1](#footnote1)</sup> method is used for estimation of aboveground 
 
 ### Eqn. 1 Chapman-Richards Function
 
-<img src="https://render.githubusercontent.com/render/math?math=AGC=max\times[1-e^{-k\cdot age}]^{(1/1-m)}">
+![Equation](https://user-images.githubusercontent.com/20387761/122469173-fb9e5580-cfff-11eb-86fe-d3708ce04247.png)
+
 
 where: 
 
